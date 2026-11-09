@@ -1,0 +1,51 @@
+# Portfolio preparation: expanded exclusions from the pinned upstream .gitignore.
+# Local environments and credentials
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+.ssh/
+.aws/
+credentials*.json
+*service-account*.json
+# Models, training data and run artifacts
+out/
+checkpoints/
+weights/
+artifacts/
+data/
+dataset/*
+!dataset/__init__.py
+!dataset/lm_dataset.py
+!dataset/dataset.md
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.bin
+*.onnx
+*.parquet
+*.arrow
+*.tar
+*.tar.gz
+*.zip
+# Runtime and tracker state
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.cache/
+.cache_*/
+wandb/
+swanlog/
+logs/
+sglang_ckpt*/
+.DS_Store
+.ipynb_checkpoints/
+
+# New evaluations are private until reviewed
+local-results/
