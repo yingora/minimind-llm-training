@@ -1,0 +1,9 @@
+Model Params: 63.91M
+Trainable Params: 63.912M
+Epoch:[1/1](20/128), loss: 2.9860, logits_loss: 2.9860, aux_loss: 0.0000, lr: 0.00000947, epoch_time: 0.0min
+Epoch:[1/1](40/128), loss: 2.8664, logits_loss: 2.8664, aux_loss: 0.0000, lr: 0.00000800, epoch_time: 0.0min
+Epoch:[1/1](60/128), loss: 2.6151, logits_loss: 2.6151, aux_loss: 0.0000, lr: 0.00000594, epoch_time: 0.0min
+Epoch:[1/1](80/128), loss: 2.5418, logits_loss: 2.5418, aux_loss: 0.0000, lr: 0.00000378, epoch_time: 0.0min
+Epoch:[1/1](100/128), loss: 2.4632, logits_loss: 2.4632, aux_loss: 0.0000, lr: 0.00000202, epoch_time: 0.0min
+Epoch:[1/1](120/128), loss: 2.5034, logits_loss: 2.5034, aux_loss: 0.0000, lr: 0.00000109, epoch_time: 0.0min
+Epoch:[1/1](128/128), loss: 2.4484, logits_loss: 2.4484, aux_loss: 0.0000, lr: 0.00000100, epoch_time: 0.0min

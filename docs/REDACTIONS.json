@@ -1,0 +1,30 @@
+[
+  {
+    "path": "pretrain_10k.log",
+    "redacted": false
+  },
+  {
+    "path": "pretrain_full.log",
+    "redacted": false
+  },
+  {
+    "path": "sft_full.log",
+    "redacted": false
+  },
+  {
+    "path": "grpo_smoke.log",
+    "redacted": false
+  },
+  {
+    "path": "grpo_full.log",
+    "redacted": false
+  },
+  {
+    "path": "grpo_full_resume.log",
+    "redacted": false
+  },
+  {
+    "path": "grpo_auto_shutdown.log",
+    "redacted": false
+  }
+]

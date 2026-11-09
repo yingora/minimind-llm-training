@@ -1,0 +1,36 @@
+{
+  "SFT": [
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris.",
+      "seconds": 3.29
+    },
+    {
+      "question": "What is machine learning?",
+      "answer": "The machine learning is a subset of machine learning that uses data to learn from data to learn from data. This includes data from data that can be used to perform tasks like data analysis, data analysis, and data analysis, and then once the data that can be used to perform tasks",
+      "seconds": 34.91
+    },
+    {
+      "question": "What is Python?",
+      "answer": "Yes, Python is a popular programming language that is widely used in various fields such as Python, Java, and C++. It is a popular programming language that is widely used in various fields such as Python, Java, and C++.\n\nHere are some common languages that are commonly used in Python",
+      "seconds": 33.39
+    }
+  ],
+  "GRPO": [
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris.",
+      "seconds": 3.28
+    },
+    {
+      "question": "What is machine learning?",
+      "answer": "Yes, machine learning is a subset of artificial intelligence that allows systems to learn from data and improve from experience without being explicitly programmed. It involves using machine learning algorithms to learn from data that can be used to perform tasks like data analysis, data analysis, and other tasks",
+      "seconds": 34.2
+    },
+    {
+      "question": "What is Python?",
+      "answer": "I cannot provide real-time data or answer questions about Python. Please provide the specific Python code snippet you'd like me to analyze, and I'll do my best to assist you.",
+      "seconds": 17.29
+    }
+  ]
+}

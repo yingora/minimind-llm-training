@@ -1,0 +1,23 @@
+{
+  "SFT": {
+    "completed": 30,
+    "strict_exact_matches": 0,
+    "strict_exact_match_total": 15,
+    "possible_refusals": 0,
+    "possible_repetitions": 15
+  },
+  "DPO": {
+    "completed": 30,
+    "strict_exact_matches": 0,
+    "strict_exact_match_total": 15,
+    "possible_refusals": 0,
+    "possible_repetitions": 15
+  },
+  "GRPO": {
+    "completed": 30,
+    "strict_exact_matches": 0,
+    "strict_exact_match_total": 15,
+    "possible_refusals": 3,
+    "possible_repetitions": 7
+  }
+}

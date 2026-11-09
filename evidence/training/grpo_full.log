@@ -1,0 +1,22 @@
+Model Params: 63.91M
+Trainable Params: 63.912M
+Model Params: 63.91M
+Trainable Params: 63.912M
+`torch_dtype` is deprecated! Use `dtype` instead!
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00, 66.06it/s]
+Generating train split: 0 examples [00:00, ? examples/s]Generating train split: 19502 examples [00:00, 165575.91 examples/s]Generating train split: 19502 examples [00:00, 164711.04 examples/s]
+past_key_values should not be None in from_legacy_cache()
+Epoch:[1/1](20/19502), Reward: -2.0557, KL_ref: 0.0011, Adv Std: 1.1540, Adv Mean: -0.0000, Actor Loss: 0.0000, Avg Response Len: 81.25, Learning Rate: 0.00000100
+Epoch:[1/1](40/19502), Reward: -1.2518, KL_ref: -0.0025, Adv Std: 1.1544, Adv Mean: 0.0000, Actor Loss: 0.0000, Avg Response Len: 88.75, Learning Rate: 0.00000100
+Epoch:[1/1](60/19502), Reward: -1.4454, KL_ref: 0.0014, Adv Std: 1.1543, Adv Mean: -0.0000, Actor Loss: 0.0000, Avg Response Len: 99.00, Learning Rate: 0.00000100
+Epoch:[1/1](80/19502), Reward: -1.4365, KL_ref: -0.0015, Adv Std: 1.1545, Adv Mean: -0.0000, Actor Loss: 0.0000, Avg Response Len: 82.50, Learning Rate: 0.00000100
+Epoch:[1/1](100/19502), Reward: 0.1426, KL_ref: -0.0018, Adv Std: 1.1543, Adv Mean: 0.0000, Actor Loss: 0.0000, Avg Response Len: 93.25, Learning Rate: 0.00000100
+Epoch:[1/1](120/19502), Reward: -2.0790, KL_ref: 0.0018, Adv Std: 1.1545, Adv Mean: 0.0000, Actor Loss: 0.0000, Avg Response Len: 124.00, Learning Rate: 0.00000100
+Epoch:[1/1](140/19502), Reward: -1.7918, KL_ref: 0.0004, Adv Std: 1.1540, Adv Mean: 0.0000, Actor Loss: 0.0000, Avg Response Len: 128.00, Learning Rate: 0.00000100
+Epoch:[1/1](160/19502), Reward: -2.7314, KL_ref: 0.0011, Adv Std: 1.1540, Adv Mean: 0.0000, Actor Loss: 0.0000, Avg Response Len: 128.00, Learning Rate: 0.00000100
+Epoch:[1/1](180/19502), Reward: -0.4339, KL_ref: -0.0038, Adv Std: 1.1545, Adv Mean: 0.0000, Actor Loss: 0.0000, Avg Response Len: 76.50, Learning Rate: 0.00000100
+Epoch:[1/1](200/19502), Reward: -2.3398, KL_ref: -0.0034, Adv Std: 1.1538, Adv Mean: -0.0000, Actor Loss: 0.0001, Avg Response Len: 71.25, Learning Rate: 0.00000100
+Epoch:[1/1](220/19502), Reward: -2.3670, KL_ref: 0.0008, Adv Std: 1.1543, Adv Mean: 0.0000, Actor Loss: 0.0000, Avg Response Len: 128.00, Learning Rate: 0.00000100
+Epoch:[1/1](240/19502), Reward: -1.3833, KL_ref: -0.0052, Adv Std: 1.1542, Adv Mean: 0.0000, Actor Loss: 0.0003, Avg Response Len: 38.25, Learning Rate: 0.00000100
+Epoch:[1/1](260/19502), Reward: -0.0960, KL_ref: -0.0054, Adv Std: 1.1544, Adv Mean: -0.0000, Actor Loss: 0.0001, Avg Response Len: 81.00, Learning Rate: 0.00000100
+Terminated

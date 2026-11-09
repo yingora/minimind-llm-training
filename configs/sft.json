@@ -1,0 +1,42 @@
+{
+  "source": "run_full_sft.sh",
+  "historical_flags": {
+    "data_path": "../dataset/sft_train_900718.jsonl",
+    "save_dir": "${ARTIFACT_ROOT}/out/sft_full",
+    "save_weight": "sft_full",
+    "from_weight": "pretrain_full",
+    "from_resume": "0",
+    "epochs": "1",
+    "batch_size": "16",
+    "accumulation_steps": "1",
+    "max_seq_len": "768",
+    "hidden_size": "768",
+    "num_hidden_layers": "8",
+    "dtype": "bfloat16",
+    "learning_rate": "0.00001",
+    "grad_clip": "1.0",
+    "num_workers": "2",
+    "log_interval": "100",
+    "save_interval": "2000"
+  },
+  "local_flags": {
+    "data_path": "../dataset/sft_train_900718.jsonl",
+    "save_dir": "../out",
+    "save_weight": "sft_full",
+    "from_weight": "pretrain_full",
+    "from_resume": "0",
+    "epochs": "1",
+    "batch_size": "16",
+    "accumulation_steps": "1",
+    "max_seq_len": "768",
+    "hidden_size": "768",
+    "num_hidden_layers": "8",
+    "dtype": "bfloat16",
+    "learning_rate": "0.00001",
+    "grad_clip": "1.0",
+    "num_workers": "2",
+    "log_interval": "100",
+    "save_interval": "2000"
+  },
+  "note": "Local flags use repository/out; GRPO starts fresh by default. Historical resume requires matching optimizer checkpoint and explicit --resume."
+}

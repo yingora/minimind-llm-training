@@ -1,0 +1,207 @@
+[
+  {
+    "path": "minimind/checkpoints/pretrain_smoke_768.pth",
+    "reported_bytes": 137685014,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "minimind/checkpoints/pretrain_smoke_768_resume.pth",
+    "reported_bytes": 649066110,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "minimind/checkpoints/pretrain_10k_768.pth",
+    "reported_bytes": 137684760,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "minimind/checkpoints/pretrain_10k_768_resume.pth",
+    "reported_bytes": 649065380,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "minimind/checkpoints/pretrain_full_768.pth",
+    "reported_bytes": 137684855,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "minimind/checkpoints/pretrain_full_768_resume.pth",
+    "reported_bytes": 649065745,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "minimind/checkpoints/sft_smoke_768.pth",
+    "reported_bytes": 137684475,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "minimind/checkpoints/sft_smoke_768_resume.pth",
+    "reported_bytes": 649064285,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "minimind/checkpoints/sft_benchmark_bs4_768.pth",
+    "reported_bytes": 137685299,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "minimind/checkpoints/sft_benchmark_bs4_768_resume.pth",
+    "reported_bytes": 649067205,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "minimind/checkpoints/sft_benchmark_bs8_768.pth",
+    "reported_bytes": 137685299,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "minimind/checkpoints/sft_benchmark_bs8_768_resume.pth",
+    "reported_bytes": 649067205,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "minimind/checkpoints/sft_benchmark_bs16_768.pth",
+    "reported_bytes": 137685394,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "minimind/checkpoints/sft_benchmark_bs16_768_resume.pth",
+    "reported_bytes": 649067570,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "minimind/checkpoints/sft_bench_8_768.pth",
+    "reported_bytes": 137684665,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "minimind/checkpoints/sft_bench_8_768_resume.pth",
+    "reported_bytes": 649065015,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "minimind/checkpoints/sft_bench_16_768.pth",
+    "reported_bytes": 137684760,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "minimind/checkpoints/sft_bench_16_768_resume.pth",
+    "reported_bytes": 649065380,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "minimind/checkpoints/sft_bench_32_768.pth",
+    "reported_bytes": 137684760,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "minimind/checkpoints/sft_bench_32_768_resume.pth",
+    "reported_bytes": 649065380,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "minimind/checkpoints/sft_full_768.pth",
+    "reported_bytes": 137684380,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "minimind/checkpoints/sft_full_768_resume.pth",
+    "reported_bytes": 649063920,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "minimind/checkpoints/grpo_smoke_768.pth",
+    "reported_bytes": 137684570,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "minimind/checkpoints/grpo_smoke_768_resume.pth",
+    "reported_bytes": 649064906,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "minimind/checkpoints/grpo_full_768.pth",
+    "reported_bytes": 137684475,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "minimind/checkpoints/grpo_full_768_resume.pth",
+    "reported_bytes": 649064541,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "out/smoke/pretrain_smoke_768.pth",
+    "reported_bytes": 137684570,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "out/pretrain_10k/pretrain_10k_768.pth",
+    "reported_bytes": 137684380,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "out/pretrain_full/pretrain_full_768.pth",
+    "reported_bytes": 137684475,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "out/sft_smoke/sft_smoke_768.pth",
+    "reported_bytes": 137684095,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "out/sft_full/sft_full_768.pth",
+    "reported_bytes": 137684000,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "out/grpo_smoke/grpo_smoke_768.pth",
+    "reported_bytes": 137684190,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "out/grpo_full/grpo_full_768.pth",
+    "reported_bytes": 137684095,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "out/dpo_full/dpo_full_768.pth",
+    "reported_bytes": 137684000,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "backups/pretrain_full_768.pth",
+    "reported_bytes": 137684475,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "benchmarks/bs4/sft_benchmark_bs4_768.pth",
+    "reported_bytes": 137684855,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "benchmarks/bs8/sft_benchmark_bs8_768.pth",
+    "reported_bytes": 137684855,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "benchmarks/bs16/sft_benchmark_bs16_768.pth",
+    "reported_bytes": 137685014,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "benchmarks/sft_2048/bs8/sft_bench_8_768.pth",
+    "reported_bytes": 137684285,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "benchmarks/sft_2048/bs16/sft_bench_16_768.pth",
+    "reported_bytes": 137684380,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  },
+  {
+    "path": "benchmarks/sft_2048/bs32/sft_bench_32_768.pth",
+    "reported_bytes": 137684380,
+    "status": "listed in recovered inventory; bytes not included; checksum unavailable"
+  }
+]

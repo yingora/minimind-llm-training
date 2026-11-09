@@ -1,0 +1,14 @@
+?? checkpoints/
+?? dataset/.msc
+?? dataset/pretrain_10k.jsonl
+?? dataset/pretrain_smoke_64.jsonl
+?? dataset/pretrain_t2t_mini.jsonl
+?? dataset/rlaif.jsonl
+?? dataset/rlaif_smoke_16.jsonl
+?? dataset/sft_benchmark_2048.jsonl
+?? dataset/sft_smoke_64.jsonl
+?? dataset/sft_t2t_mini.jsonl
+?? dataset/sft_train_900718.jsonl
+?? dataset/sft_val_5000.jsonl
+?? experiments/
+?? trainer/.ipynb_checkpoints/

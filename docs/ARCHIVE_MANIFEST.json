@@ -1,0 +1,676 @@
+[
+  {
+    "archive": "minimind-portfolio-backup.tar.gz",
+    "sha256": "53801676bafd402d7b12d15e51bc278e1df0a8042f969b4747fb79ae1e5fc442",
+    "primary": false,
+    "files": [
+      {
+        "path": "UPSTREAM_COMMIT.txt",
+        "bytes": 41,
+        "sha256": "a3824f7505e752962ee0275ba072289b5b0c419bc8710d94186818b3507da850"
+      },
+      {
+        "path": "minimind/.gitignore",
+        "bytes": 56,
+        "sha256": "0d09172606aa89f26d76e33f91c925e6c660da98f2841bab407f95e6059627eb"
+      },
+      {
+        "path": "minimind/LICENSE",
+        "bytes": 11357,
+        "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+      },
+      {
+        "path": "minimind/README.md",
+        "bytes": 137580,
+        "sha256": "1af72ca8351d90c9786b3936ce5a5faa125f4429f11e04099bd2eba2c0c4ac58"
+      },
+      {
+        "path": "minimind/README_en.md",
+        "bytes": 152203,
+        "sha256": "68ed06c56e3d0a386bf47bcc3ef793972a1a6c5432e541e40ff2498664b55f6f"
+      },
+      {
+        "path": "minimind/eval_llm.py",
+        "bytes": 5583,
+        "sha256": "1c01e881a81876869de8e70303573a3002168fe43dfc908e98717787fd3e9546"
+      },
+      {
+        "path": "minimind/experiments/benchmark_sft_grpo.py",
+        "bytes": 6905,
+        "sha256": "7b57040520ccaad9460913f13dc39eb369393fe0ae3555ff73c65da1fa89fedd"
+      },
+      {
+        "path": "minimind/experiments/compare_pretrain.py",
+        "bytes": 1795,
+        "sha256": "6a87f09c5f722b6fd121fc807e982e735b0f00e2079136264fdf72b780f4547c"
+      },
+      {
+        "path": "minimind/experiments/compare_sft_dpo_grpo_cpu.py",
+        "bytes": 2911,
+        "sha256": "27c13c7cb925c948964b533c100a70748a1b18b8e73090d280905f5fe07aac36"
+      },
+      {
+        "path": "minimind/experiments/first_training_step.py",
+        "bytes": 1775,
+        "sha256": "a10c3f7df586568c7e9625d98cbea5acbbcd2c99f6ace47953c0110148c797a0"
+      },
+      {
+        "path": "minimind/experiments/plot_pretrain_loss.py",
+        "bytes": 1624,
+        "sha256": "99156cb86b6c1d10aa032cf64020eab278dca3ac952173e40fe4fd650dc8df02"
+      },
+      {
+        "path": "minimind/experiments/results/benchmark_comparison.txt",
+        "bytes": 15507,
+        "sha256": "88c407029696bbc9a8e2452aa9551b0b30a0ed979a0010a8fa308f51b8192b53"
+      },
+      {
+        "path": "minimind/experiments/results/benchmark_dpo_run.log",
+        "bytes": 10932,
+        "sha256": "d33ba4db99f859eeb8c0a471b9ccc919661a52186074724d2d3996540464efa1"
+      },
+      {
+        "path": "minimind/experiments/results/benchmark_run.log",
+        "bytes": 15534,
+        "sha256": "8b7047639e2f52afebf34115f2a52c04c96e8a4776c15293478149a483ebfe40"
+      },
+      {
+        "path": "minimind/experiments/results/benchmark_sft_grpo.jsonl",
+        "bytes": 38375,
+        "sha256": "f20ad30c2504e5cb42c171e8e680bc9bbb1d76d10914eac54cf5ec7532f0cefc"
+      },
+      {
+        "path": "minimind/experiments/results/benchmark_summary.json",
+        "bytes": 491,
+        "sha256": "62ac37fcdb87a836482763d5f344d3a3d4605932ef26e94250d78682f2981fe3"
+      },
+      {
+        "path": "minimind/experiments/results/benchmark_three_models.txt",
+        "bytes": 22277,
+        "sha256": "1676fa820001ef8a59f1a33ae38c0c2bd8a15a5c868f26b441a3c2bbceda846c"
+      },
+      {
+        "path": "minimind/experiments/results/cpu_comparison.log",
+        "bytes": 1817,
+        "sha256": "d81e9d03194e6693764ffc32d1dd76a53c928bb1d575811c08fd57f390cdbce2"
+      },
+      {
+        "path": "minimind/experiments/results/sft_dpo_grpo_cpu.json",
+        "bytes": 1755,
+        "sha256": "0f1aa7de6d2d22804e5018f9afe1da24140aa4c666802d2334d1fe081d3494f9"
+      },
+      {
+        "path": "minimind/experiments/test_sft_chat.py",
+        "bytes": 1814,
+        "sha256": "7db69fc4a10e592024cd1e7c19f33c75c6208358c2ccf25b5aa87e4febe59367"
+      },
+      {
+        "path": "minimind/model/__init__.py",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "path": "minimind/model/model_lora.py",
+        "bytes": 2681,
+        "sha256": "dcb5196e968be99a4059416f165014bd4cb2bffbf33c74ed445266a1a689c5a5"
+      },
+      {
+        "path": "minimind/model/model_minimind.py",
+        "bytes": 18986,
+        "sha256": "548f1203282dccb3be43227b11463f469b976afbab614df52828bdd246c3786f"
+      },
+      {
+        "path": "minimind/model/tokenizer.json",
+        "bytes": 451182,
+        "sha256": "71f32c68cf63a15355a8fc171b7594b3d41870fe0ddb54fc6aefa55f73a4a668"
+      },
+      {
+        "path": "minimind/model/tokenizer_config.json",
+        "bytes": 13308,
+        "sha256": "d7cd6a60c9f191c4f9ffec69b2eb289ad2f960366724f328b681ae1e46e4c110"
+      },
+      {
+        "path": "minimind/requirements.txt",
+        "bytes": 592,
+        "sha256": "b6ee58a7ba35aa05846ca9fe4691b6e4562d508625715120707cbec8b7897ad9"
+      },
+      {
+        "path": "minimind/scripts/chat_api.py",
+        "bytes": 1685,
+        "sha256": "0598c6882ac96471b5561c611fd460e6b42ee8a7be42e1ac177e10884d323d81"
+      },
+      {
+        "path": "minimind/scripts/convert_model.py",
+        "bytes": 8122,
+        "sha256": "118df87620719bee7b22b1500017f668737a3037b0caceeb886575fee25fbc51"
+      },
+      {
+        "path": "minimind/scripts/eval_toolcall.py",
+        "bytes": 15204,
+        "sha256": "e1f5c6432386a8345fc22ef09b94731b9023fc63b1884ff7c3a9dea243947ba0"
+      },
+      {
+        "path": "minimind/scripts/serve_openai_api.py",
+        "bytes": 10792,
+        "sha256": "ce6781fda182cd6d480a196066f8d7e4dedc54f34e10ba982cb50880bbe84fa7"
+      },
+      {
+        "path": "minimind/scripts/web_demo.py",
+        "bytes": 22256,
+        "sha256": "315f1e31b96bbc41a549a4983c55e3ea346211e07c50e2a2b6258c3072a145b4"
+      },
+      {
+        "path": "minimind/trainer/rollout_engine.py",
+        "bytes": 10419,
+        "sha256": "04ccde11243c17e992f1d7b1fc11483e437b20a1404099c3ccd9cff5850a8502"
+      },
+      {
+        "path": "minimind/trainer/train_agent.py",
+        "bytes": 31981,
+        "sha256": "b49dedee6eea12a3f588b71903b9b644504d5c6ec36f5cb7d257a2be707e311b"
+      },
+      {
+        "path": "minimind/trainer/train_distillation.py",
+        "bytes": 13347,
+        "sha256": "3f41c9c5caf90e90e04bc104b196cef5bceda981510e78b1beecc33b216b23a7"
+      },
+      {
+        "path": "minimind/trainer/train_dpo.py",
+        "bytes": 11918,
+        "sha256": "a25c707baf672fff28d8a2776a0c3b621fe4a4bff1ad26eea340f204546d9286"
+      },
+      {
+        "path": "minimind/trainer/train_full_sft.py",
+        "bytes": 9406,
+        "sha256": "e4259c38677ea7b710aab60cd1ef75d3429499414aa76b8188154b8d0404accd"
+      },
+      {
+        "path": "minimind/trainer/train_grpo.py",
+        "bytes": 19394,
+        "sha256": "449d070bc1e1fc43aeb5554fb132bc26a201458e5cbb563c918f85cc74f68406"
+      },
+      {
+        "path": "minimind/trainer/train_lora.py",
+        "bytes": 9926,
+        "sha256": "f5fd1504400f9948fc00ccae58aa4f91b94383877311cbcc34c79b5f56076bec"
+      },
+      {
+        "path": "minimind/trainer/train_ppo.py",
+        "bytes": 26664,
+        "sha256": "813583b7d9cead9b303d467858011a5b4d8e2ef5e4ae141c1268d65cb801e19e"
+      },
+      {
+        "path": "minimind/trainer/train_pretrain.py",
+        "bytes": 9382,
+        "sha256": "103e4fdbe60e2adf6905fab899e8acba35128c0cec2de9f46831ebf98e288a9c"
+      },
+      {
+        "path": "minimind/trainer/train_tokenizer.py",
+        "bytes": 15200,
+        "sha256": "0d6d6dcb21a066b7cc579d2be557fa8f266f3d6e6db0f665e0cc12ce8b6f0068"
+      },
+      {
+        "path": "minimind/trainer/trainer_utils.py",
+        "bytes": 9438,
+        "sha256": "72b4cf848b24b989bed7eb3780b54374790c581f3e5bf5b155909b8b1158a248"
+      }
+    ]
+  },
+  {
+    "archive": "minimind-evidence-backup.tar.gz",
+    "sha256": "236f2c09c9efac845002c12a2724b2a3d84e1cb1b2c095a1fb9de9ccdf835f7f",
+    "primary": true,
+    "files": [
+      {
+        "path": "UPSTREAM_COMMIT.txt",
+        "bytes": 41,
+        "sha256": "a3824f7505e752962ee0275ba072289b5b0c419bc8710d94186818b3507da850"
+      },
+      {
+        "path": "benchmarks/bs16.log",
+        "bytes": 196,
+        "sha256": "070e491c8a63ca717e56112bfa7aedb29075f433d6f0e5a55545a38d4c8fcf6d"
+      },
+      {
+        "path": "benchmarks/bs4.log",
+        "bytes": 199,
+        "sha256": "17b0c5c3b502d590e664f7a6948fee18efca20799a09fc70a8ad6c30ab53b28c"
+      },
+      {
+        "path": "benchmarks/bs8.log",
+        "bytes": 195,
+        "sha256": "1a11f7ba69ae8dc0ba968ca112b32bdc23aa5c86cde60c07778f0fca5180c1cd"
+      },
+      {
+        "path": "benchmarks/sft_2048/bs16/gpu_memory.log",
+        "bytes": 86,
+        "sha256": "8aabb93403fed85f7e2f62024ec118bf34ec48e45efd97809e0a0ebf455507f0"
+      },
+      {
+        "path": "benchmarks/sft_2048/bs16/train.log",
+        "bytes": 813,
+        "sha256": "30f395499288bf26067db3f467126c25a496dcb756715c3a31eb5017c5796957"
+      },
+      {
+        "path": "benchmarks/sft_2048/bs32/train.log",
+        "bytes": 479,
+        "sha256": "5f4ef7e5abd6b4d898dae732355d0983c946a5332cfa4151a0737faab5343a0c"
+      },
+      {
+        "path": "benchmarks/sft_2048/bs8/gpu_memory.log",
+        "bytes": 106,
+        "sha256": "fd3d509deb1efffb46948c28bc9f33af4979d89da478f6d0117e6e3eb64ca5d8"
+      },
+      {
+        "path": "benchmarks/sft_2048/bs8/train.log",
+        "bytes": 1598,
+        "sha256": "b2bd43f9fb3c8198c23ed5701b58df40b1c1b304f31878057d4e1352a929a4cc"
+      },
+      {
+        "path": "logs/grpo_auto_shutdown.log",
+        "bytes": 783,
+        "sha256": "af8dc5d2bb43130202a4d437242c9d0ec6fc27855b0d03d7358c184f9b0cefee"
+      },
+      {
+        "path": "logs/grpo_full.log",
+        "bytes": 2698,
+        "sha256": "8b93ce6dfdaaa26882715299f211aef2c72ab7899d995f3038bbd46784d53377"
+      },
+      {
+        "path": "logs/grpo_full_resume.log",
+        "bytes": 160508,
+        "sha256": "605d7c8f576f3814bf05852e1d9398cd70e7b990d035b30066e8c5690145c40a"
+      },
+      {
+        "path": "logs/grpo_shutdown_monitor.log",
+        "bytes": 108,
+        "sha256": "1d3ac513e9e10b5f19a975e3ba399c36d4979be15740339835da2bb5687ece72"
+      },
+      {
+        "path": "logs/grpo_shutdown_monitor_v2.log",
+        "bytes": 620,
+        "sha256": "7454df59053fb9a8e7973412534da939eeec301755d6f3def55e705034567be8"
+      },
+      {
+        "path": "logs/grpo_smoke.log",
+        "bytes": 17770,
+        "sha256": "a125d02cd6dc76cc9e0b5a7c2c0872d249fb69995e32dbe9965555184c16682e"
+      },
+      {
+        "path": "logs/pretrain_10k.log",
+        "bytes": 14121,
+        "sha256": "8544409b7fb5cef0548755cdac82b3dbf31df56531e2497c96bf155c1ea25107"
+      },
+      {
+        "path": "logs/pretrain_10k_loss.png",
+        "bytes": 145777,
+        "sha256": "1c96dde3b1d89d4a60d7af20d9cbfdef1deb95a723070ea63e11c3a1167f19a3"
+      },
+      {
+        "path": "logs/pretrain_10k_metrics.csv",
+        "bytes": 2918,
+        "sha256": "a6ac3e8c312c27bbc1deaae85c0e13a8bf0ad5f5e82813832496e77eca9e44f4"
+      },
+      {
+        "path": "logs/pretrain_full.log",
+        "bytes": 374355,
+        "sha256": "5e1dfa8c0a6f321f8931a3b7a7071d41171af3481a4e125188a5d70ee347005d"
+      },
+      {
+        "path": "logs/sft_full.log",
+        "bytes": 67675,
+        "sha256": "2cbb5db1a6cb19ecdc1d0d44006b4de8c3129628b25f142c3ca7d91813851419"
+      },
+      {
+        "path": "minimind/.gitignore",
+        "bytes": 56,
+        "sha256": "0d09172606aa89f26d76e33f91c925e6c660da98f2841bab407f95e6059627eb"
+      },
+      {
+        "path": "minimind/CODE_OF_CONDUCT.md",
+        "bytes": 5202,
+        "sha256": "88504558eb3470566208af69870487d373e6687575e8c9b9863f517f16309d81"
+      },
+      {
+        "path": "minimind/LICENSE",
+        "bytes": 11357,
+        "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+      },
+      {
+        "path": "minimind/README.md",
+        "bytes": 137580,
+        "sha256": "1af72ca8351d90c9786b3936ce5a5faa125f4429f11e04099bd2eba2c0c4ac58"
+      },
+      {
+        "path": "minimind/README_en.md",
+        "bytes": 152203,
+        "sha256": "68ed06c56e3d0a386bf47bcc3ef793972a1a6c5432e541e40ff2498664b55f6f"
+      },
+      {
+        "path": "minimind/eval_llm.py",
+        "bytes": 5583,
+        "sha256": "1c01e881a81876869de8e70303573a3002168fe43dfc908e98717787fd3e9546"
+      },
+      {
+        "path": "minimind/experiments/benchmark_sft_grpo.py",
+        "bytes": 6905,
+        "sha256": "7b57040520ccaad9460913f13dc39eb369393fe0ae3555ff73c65da1fa89fedd"
+      },
+      {
+        "path": "minimind/experiments/compare_pretrain.py",
+        "bytes": 1795,
+        "sha256": "6a87f09c5f722b6fd121fc807e982e735b0f00e2079136264fdf72b780f4547c"
+      },
+      {
+        "path": "minimind/experiments/compare_sft_dpo_grpo_cpu.py",
+        "bytes": 2911,
+        "sha256": "27c13c7cb925c948964b533c100a70748a1b18b8e73090d280905f5fe07aac36"
+      },
+      {
+        "path": "minimind/experiments/first_training_step.py",
+        "bytes": 1775,
+        "sha256": "a10c3f7df586568c7e9625d98cbea5acbbcd2c99f6ace47953c0110148c797a0"
+      },
+      {
+        "path": "minimind/experiments/plot_pretrain_loss.py",
+        "bytes": 1624,
+        "sha256": "99156cb86b6c1d10aa032cf64020eab278dca3ac952173e40fe4fd650dc8df02"
+      },
+      {
+        "path": "minimind/experiments/results/benchmark_comparison.txt",
+        "bytes": 15507,
+        "sha256": "88c407029696bbc9a8e2452aa9551b0b30a0ed979a0010a8fa308f51b8192b53"
+      },
+      {
+        "path": "minimind/experiments/results/benchmark_dpo_run.log",
+        "bytes": 10932,
+        "sha256": "d33ba4db99f859eeb8c0a471b9ccc919661a52186074724d2d3996540464efa1"
+      },
+      {
+        "path": "minimind/experiments/results/benchmark_run.log",
+        "bytes": 15534,
+        "sha256": "8b7047639e2f52afebf34115f2a52c04c96e8a4776c15293478149a483ebfe40"
+      },
+      {
+        "path": "minimind/experiments/results/benchmark_sft_grpo.jsonl",
+        "bytes": 38375,
+        "sha256": "f20ad30c2504e5cb42c171e8e680bc9bbb1d76d10914eac54cf5ec7532f0cefc"
+      },
+      {
+        "path": "minimind/experiments/results/benchmark_summary.json",
+        "bytes": 491,
+        "sha256": "62ac37fcdb87a836482763d5f344d3a3d4605932ef26e94250d78682f2981fe3"
+      },
+      {
+        "path": "minimind/experiments/results/benchmark_three_models.txt",
+        "bytes": 22277,
+        "sha256": "1676fa820001ef8a59f1a33ae38c0c2bd8a15a5c868f26b441a3c2bbceda846c"
+      },
+      {
+        "path": "minimind/experiments/results/cpu_comparison.log",
+        "bytes": 1817,
+        "sha256": "d81e9d03194e6693764ffc32d1dd76a53c928bb1d575811c08fd57f390cdbce2"
+      },
+      {
+        "path": "minimind/experiments/results/sft_dpo_grpo_cpu.json",
+        "bytes": 1755,
+        "sha256": "0f1aa7de6d2d22804e5018f9afe1da24140aa4c666802d2334d1fe081d3494f9"
+      },
+      {
+        "path": "minimind/experiments/test_sft_chat.py",
+        "bytes": 1814,
+        "sha256": "7db69fc4a10e592024cd1e7c19f33c75c6208358c2ccf25b5aa87e4febe59367"
+      },
+      {
+        "path": "minimind/images/LLM-structure-moe.jpg",
+        "bytes": 320712,
+        "sha256": "1d913b77424c434383d80b0496a72ffcdaa9d49f98a70c07c1453f2268d7cd38"
+      },
+      {
+        "path": "minimind/images/LLM-structure.jpg",
+        "bytes": 268092,
+        "sha256": "968fd7204c5e2a7884b213f97a8711c7cb45640bbf7f031da9e477d1317ebaad"
+      },
+      {
+        "path": "minimind/images/agent_rl_loss.jpg",
+        "bytes": 718986,
+        "sha256": "adf7557821564c387b8a2ffb86c6555c6b76ebdba6ab16b6d58950a69cb7adde"
+      },
+      {
+        "path": "minimind/images/agent_webui.jpg",
+        "bytes": 127241,
+        "sha256": "2301e52af6154c74fa043019d148bcf3ef67fdce062b3fa15645db8316c703e6"
+      },
+      {
+        "path": "minimind/images/benchmark_radar.jpg",
+        "bytes": 98021,
+        "sha256": "7fb5e3dff2a9615badf388ecff6a4126d867f4d2bc5900f8fc0d6ea4c0c91239"
+      },
+      {
+        "path": "minimind/images/dataset.jpg",
+        "bytes": 126029,
+        "sha256": "399df65d8a2084dc99c6e13bbcb56dcf878101b872e9c93f95f9676b8e61082b"
+      },
+      {
+        "path": "minimind/images/gpt3_config.png",
+        "bytes": 67201,
+        "sha256": "f6c1329fc548c9bfe6094688846851fc38eaed707779650bda1764c11d81abe3"
+      },
+      {
+        "path": "minimind/images/grpo_loss.jpg",
+        "bytes": 604438,
+        "sha256": "f3bb081f6ca8cea3fc0a4d70cf4be470bcb4a4a7f98fbc8d09fb9dcac15af53b"
+      },
+      {
+        "path": "minimind/images/logo.png",
+        "bytes": 507055,
+        "sha256": "f7f2a414ac9d3e79a239c832fbd731fe0ab2e1e285dc9ce3516f2b77315a9316"
+      },
+      {
+        "path": "minimind/images/logo2.png",
+        "bytes": 629688,
+        "sha256": "768882e94fd7c9f75edc288f08f4fafceadcb9640dc8df44bd532bc6877a6a60"
+      },
+      {
+        "path": "minimind/images/minimind-3.gif",
+        "bytes": 5994147,
+        "sha256": "3d1896d2ef8daf4a0d3e2f0c9f4bb7e233cf132a7c0e13483edd2a9cb6faf0bd"
+      },
+      {
+        "path": "minimind/images/ppo_loss.jpg",
+        "bytes": 615395,
+        "sha256": "c5657d33e46140570024b03fd7e9fdf95c8204ada0a19e869a0619407a709401"
+      },
+      {
+        "path": "minimind/images/pretrain_loss.jpg",
+        "bytes": 299537,
+        "sha256": "90d398532702d0eceb038373a12570e55ea6542f834afc068864ec874e8d84b9"
+      },
+      {
+        "path": "minimind/images/rl-structure.jpg",
+        "bytes": 236210,
+        "sha256": "103c8d1c91189f7df412978d962dade6ae3934f5eb1b75ec42f99aa4c7dbc0ed"
+      },
+      {
+        "path": "minimind/images/rope_ppl.png",
+        "bytes": 81321,
+        "sha256": "56d0da114f25ef78683c6d79811623f31dca230bb7b45fa5881b78ad8ea143dd"
+      },
+      {
+        "path": "minimind/images/sft_loss.jpg",
+        "bytes": 476758,
+        "sha256": "39f2649b61a8b51a1c44907254a4acd3d860963df3ee8d8ac5b85f9358c08b41"
+      },
+      {
+        "path": "minimind/images/with_huggingface.png",
+        "bytes": 182102,
+        "sha256": "29b2b47a7d8f1ecac4ea1949bc6047408a64e88cf8eb3b8d988e41e5ff111a5b"
+      },
+      {
+        "path": "minimind/images/with_modelscope.png",
+        "bytes": 153731,
+        "sha256": "ef021a8aff9f2db44a23be35d06a16a1a2c99a672f8e912de35baf5b49989cf7"
+      },
+      {
+        "path": "minimind/model/__init__.py",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "path": "minimind/model/model_lora.py",
+        "bytes": 2681,
+        "sha256": "dcb5196e968be99a4059416f165014bd4cb2bffbf33c74ed445266a1a689c5a5"
+      },
+      {
+        "path": "minimind/model/model_minimind.py",
+        "bytes": 18986,
+        "sha256": "548f1203282dccb3be43227b11463f469b976afbab614df52828bdd246c3786f"
+      },
+      {
+        "path": "minimind/model/tokenizer.json",
+        "bytes": 451182,
+        "sha256": "71f32c68cf63a15355a8fc171b7594b3d41870fe0ddb54fc6aefa55f73a4a668"
+      },
+      {
+        "path": "minimind/model/tokenizer_config.json",
+        "bytes": 13308,
+        "sha256": "d7cd6a60c9f191c4f9ffec69b2eb289ad2f960366724f328b681ae1e46e4c110"
+      },
+      {
+        "path": "minimind/requirements.txt",
+        "bytes": 592,
+        "sha256": "b6ee58a7ba35aa05846ca9fe4691b6e4562d508625715120707cbec8b7897ad9"
+      },
+      {
+        "path": "minimind/scripts/chat_api.py",
+        "bytes": 1685,
+        "sha256": "0598c6882ac96471b5561c611fd460e6b42ee8a7be42e1ac177e10884d323d81"
+      },
+      {
+        "path": "minimind/scripts/convert_model.py",
+        "bytes": 8122,
+        "sha256": "118df87620719bee7b22b1500017f668737a3037b0caceeb886575fee25fbc51"
+      },
+      {
+        "path": "minimind/scripts/eval_toolcall.py",
+        "bytes": 15204,
+        "sha256": "e1f5c6432386a8345fc22ef09b94731b9023fc63b1884ff7c3a9dea243947ba0"
+      },
+      {
+        "path": "minimind/scripts/serve_openai_api.py",
+        "bytes": 10792,
+        "sha256": "ce6781fda182cd6d480a196066f8d7e4dedc54f34e10ba982cb50880bbe84fa7"
+      },
+      {
+        "path": "minimind/scripts/web_demo.py",
+        "bytes": 22256,
+        "sha256": "315f1e31b96bbc41a549a4983c55e3ea346211e07c50e2a2b6258c3072a145b4"
+      },
+      {
+        "path": "minimind/trainer/rollout_engine.py",
+        "bytes": 10419,
+        "sha256": "04ccde11243c17e992f1d7b1fc11483e437b20a1404099c3ccd9cff5850a8502"
+      },
+      {
+        "path": "minimind/trainer/train_agent.py",
+        "bytes": 31981,
+        "sha256": "b49dedee6eea12a3f588b71903b9b644504d5c6ec36f5cb7d257a2be707e311b"
+      },
+      {
+        "path": "minimind/trainer/train_distillation.py",
+        "bytes": 13347,
+        "sha256": "3f41c9c5caf90e90e04bc104b196cef5bceda981510e78b1beecc33b216b23a7"
+      },
+      {
+        "path": "minimind/trainer/train_dpo.py",
+        "bytes": 11918,
+        "sha256": "a25c707baf672fff28d8a2776a0c3b621fe4a4bff1ad26eea340f204546d9286"
+      },
+      {
+        "path": "minimind/trainer/train_full_sft.py",
+        "bytes": 9406,
+        "sha256": "e4259c38677ea7b710aab60cd1ef75d3429499414aa76b8188154b8d0404accd"
+      },
+      {
+        "path": "minimind/trainer/train_grpo.py",
+        "bytes": 19394,
+        "sha256": "449d070bc1e1fc43aeb5554fb132bc26a201458e5cbb563c918f85cc74f68406"
+      },
+      {
+        "path": "minimind/trainer/train_lora.py",
+        "bytes": 9926,
+        "sha256": "f5fd1504400f9948fc00ccae58aa4f91b94383877311cbcc34c79b5f56076bec"
+      },
+      {
+        "path": "minimind/trainer/train_ppo.py",
+        "bytes": 26664,
+        "sha256": "813583b7d9cead9b303d467858011a5b4d8e2ef5e4ae141c1268d65cb801e19e"
+      },
+      {
+        "path": "minimind/trainer/train_pretrain.py",
+        "bytes": 9382,
+        "sha256": "103e4fdbe60e2adf6905fab899e8acba35128c0cec2de9f46831ebf98e288a9c"
+      },
+      {
+        "path": "minimind/trainer/train_tokenizer.py",
+        "bytes": 15200,
+        "sha256": "0d6d6dcb21a066b7cc579d2be557fa8f266f3d6e6db0f665e0cc12ce8b6f0068"
+      },
+      {
+        "path": "minimind/trainer/trainer_utils.py",
+        "bytes": 9438,
+        "sha256": "72b4cf848b24b989bed7eb3780b54374790c581f3e5bf5b155909b8b1158a248"
+      },
+      {
+        "path": "monitor_grpo_shutdown.sh",
+        "bytes": 1041,
+        "sha256": "78c1377e40df031630d98bc5a9f90a9e3d53dce77536c24c04db42baf74ba20b"
+      },
+      {
+        "path": "monitor_grpo_shutdown_v2.sh",
+        "bytes": 757,
+        "sha256": "6e34e34a74fa3d0185f9dcb00457ddace0a83d4ba7c9593efc0549a456135e7e"
+      },
+      {
+        "path": "portfolio-export/FILE_INVENTORY.txt",
+        "bytes": 10625,
+        "sha256": "66081b9362aa4906bb782fa9081a7461a46a18f755c206758a26ad31f2bdd75e"
+      },
+      {
+        "path": "portfolio-export/GIT_STATUS.txt",
+        "bytes": 394,
+        "sha256": "63ca775b8029546b4d2e5874344fabd917781c964e86b736179a703dbd8375e5"
+      },
+      {
+        "path": "portfolio-export/LOCAL_CHANGES.patch",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "path": "portfolio-export/UPSTREAM_COMMIT.txt",
+        "bytes": 41,
+        "sha256": "a3824f7505e752962ee0275ba072289b5b0c419bc8710d94186818b3507da850"
+      },
+      {
+        "path": "resume_grpo_auto_shutdown.sh",
+        "bytes": 1076,
+        "sha256": "34976f08803327d24eeceb142b5de9ecdef8da6d55943e43606e4b35351b6391"
+      },
+      {
+        "path": "run_full_grpo.sh",
+        "bytes": 941,
+        "sha256": "0fc349e5249a4da1e3dbf222f59341c18621a7056768ed2dd339245843d6b026"
+      },
+      {
+        "path": "run_full_pretrain.sh",
+        "bytes": 555,
+        "sha256": "62c2db3fe8f211e97b3e790cf2ac1e1a942ce8557a524afffd71991504310fd3"
+      },
+      {
+        "path": "run_full_sft.sh",
+        "bytes": 668,
+        "sha256": "30a79913d83ab8fa88a1271b1ce11e6d8dd87e5a008430d1b45c757b02066ae7"
+      }
+    ]
+  }
+]

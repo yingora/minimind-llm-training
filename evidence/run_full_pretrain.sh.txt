@@ -1,0 +1,24 @@
+# Recovered launch script, infrastructure paths redacted; reference only.
+#!/bin/bash
+set -e
+
+cd <REPOSITORY>/trainer
+
+python -u train_pretrain.py \
+  --data_path ../dataset/pretrain_t2t_mini.jsonl \
+  --save_dir <ARTIFACT_ROOT>/out/pretrain_full \
+  --save_weight pretrain_full \
+  --epochs 1 \
+  --batch_size 4 \
+  --accumulation_steps 4 \
+  --max_seq_len 340 \
+  --hidden_size 768 \
+  --num_hidden_layers 8 \
+  --dtype bfloat16 \
+  --learning_rate 0.0005 \
+  --grad_clip 1.0 \
+  --num_workers 2 \
+  --log_interval 100 \
+  --save_interval 2000 \
+  --from_weight none \
+  --from_resume 0

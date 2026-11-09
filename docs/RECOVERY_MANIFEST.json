@@ -1,0 +1,248 @@
+[
+  {
+    "path": ".gitignore",
+    "sha256": "0d09172606aa89f26d76e33f91c925e6c660da98f2841bab407f95e6059627eb",
+    "bytes": 56,
+    "classification": "unchanged upstream"
+  },
+  {
+    "path": "LICENSE",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "classification": "unchanged upstream"
+  },
+  {
+    "path": "README.md",
+    "sha256": "1af72ca8351d90c9786b3936ce5a5faa125f4429f11e04099bd2eba2c0c4ac58",
+    "bytes": 137580,
+    "classification": "unchanged upstream"
+  },
+  {
+    "path": "README_en.md",
+    "sha256": "68ed06c56e3d0a386bf47bcc3ef793972a1a6c5432e541e40ff2498664b55f6f",
+    "bytes": 152203,
+    "classification": "unchanged upstream"
+  },
+  {
+    "path": "eval_llm.py",
+    "sha256": "1c01e881a81876869de8e70303573a3002168fe43dfc908e98717787fd3e9546",
+    "bytes": 5583,
+    "classification": "unchanged upstream"
+  },
+  {
+    "path": "experiments/benchmark_sft_grpo.py",
+    "sha256": "7b57040520ccaad9460913f13dc39eb369393fe0ae3555ff73c65da1fa89fedd",
+    "bytes": 6905,
+    "classification": "personal experiment addition"
+  },
+  {
+    "path": "experiments/compare_pretrain.py",
+    "sha256": "6a87f09c5f722b6fd121fc807e982e735b0f00e2079136264fdf72b780f4547c",
+    "bytes": 1795,
+    "classification": "personal experiment addition"
+  },
+  {
+    "path": "experiments/compare_sft_dpo_grpo_cpu.py",
+    "sha256": "27c13c7cb925c948964b533c100a70748a1b18b8e73090d280905f5fe07aac36",
+    "bytes": 2911,
+    "classification": "personal experiment addition"
+  },
+  {
+    "path": "experiments/first_training_step.py",
+    "sha256": "a10c3f7df586568c7e9625d98cbea5acbbcd2c99f6ace47953c0110148c797a0",
+    "bytes": 1775,
+    "classification": "personal experiment addition"
+  },
+  {
+    "path": "experiments/plot_pretrain_loss.py",
+    "sha256": "99156cb86b6c1d10aa032cf64020eab278dca3ac952173e40fe4fd650dc8df02",
+    "bytes": 1624,
+    "classification": "personal experiment addition"
+  },
+  {
+    "path": "experiments/results/benchmark_comparison.txt",
+    "sha256": "88c407029696bbc9a8e2452aa9551b0b30a0ed979a0010a8fa308f51b8192b53",
+    "bytes": 15507,
+    "classification": "personal experiment addition"
+  },
+  {
+    "path": "experiments/results/benchmark_dpo_run.log",
+    "sha256": "d33ba4db99f859eeb8c0a471b9ccc919661a52186074724d2d3996540464efa1",
+    "bytes": 10932,
+    "classification": "personal experiment addition"
+  },
+  {
+    "path": "experiments/results/benchmark_run.log",
+    "sha256": "8b7047639e2f52afebf34115f2a52c04c96e8a4776c15293478149a483ebfe40",
+    "bytes": 15534,
+    "classification": "personal experiment addition"
+  },
+  {
+    "path": "experiments/results/benchmark_sft_grpo.jsonl",
+    "sha256": "f20ad30c2504e5cb42c171e8e680bc9bbb1d76d10914eac54cf5ec7532f0cefc",
+    "bytes": 38375,
+    "classification": "personal experiment addition"
+  },
+  {
+    "path": "experiments/results/benchmark_summary.json",
+    "sha256": "62ac37fcdb87a836482763d5f344d3a3d4605932ef26e94250d78682f2981fe3",
+    "bytes": 491,
+    "classification": "personal experiment addition"
+  },
+  {
+    "path": "experiments/results/benchmark_three_models.txt",
+    "sha256": "1676fa820001ef8a59f1a33ae38c0c2bd8a15a5c868f26b441a3c2bbceda846c",
+    "bytes": 22277,
+    "classification": "personal experiment addition"
+  },
+  {
+    "path": "experiments/results/cpu_comparison.log",
+    "sha256": "d81e9d03194e6693764ffc32d1dd76a53c928bb1d575811c08fd57f390cdbce2",
+    "bytes": 1817,
+    "classification": "personal experiment addition"
+  },
+  {
+    "path": "experiments/results/sft_dpo_grpo_cpu.json",
+    "sha256": "0f1aa7de6d2d22804e5018f9afe1da24140aa4c666802d2334d1fe081d3494f9",
+    "bytes": 1755,
+    "classification": "personal experiment addition"
+  },
+  {
+    "path": "experiments/test_sft_chat.py",
+    "sha256": "7db69fc4a10e592024cd1e7c19f33c75c6208358c2ccf25b5aa87e4febe59367",
+    "bytes": 1814,
+    "classification": "personal experiment addition"
+  },
+  {
+    "path": "model/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0,
+    "classification": "unchanged upstream"
+  },
+  {
+    "path": "model/model_lora.py",
+    "sha256": "dcb5196e968be99a4059416f165014bd4cb2bffbf33c74ed445266a1a689c5a5",
+    "bytes": 2681,
+    "classification": "unchanged upstream"
+  },
+  {
+    "path": "model/model_minimind.py",
+    "sha256": "548f1203282dccb3be43227b11463f469b976afbab614df52828bdd246c3786f",
+    "bytes": 18986,
+    "classification": "unchanged upstream"
+  },
+  {
+    "path": "model/tokenizer.json",
+    "sha256": "71f32c68cf63a15355a8fc171b7594b3d41870fe0ddb54fc6aefa55f73a4a668",
+    "bytes": 451182,
+    "classification": "unchanged upstream"
+  },
+  {
+    "path": "model/tokenizer_config.json",
+    "sha256": "d7cd6a60c9f191c4f9ffec69b2eb289ad2f960366724f328b681ae1e46e4c110",
+    "bytes": 13308,
+    "classification": "unchanged upstream"
+  },
+  {
+    "path": "requirements.txt",
+    "sha256": "b6ee58a7ba35aa05846ca9fe4691b6e4562d508625715120707cbec8b7897ad9",
+    "bytes": 592,
+    "classification": "unchanged upstream"
+  },
+  {
+    "path": "scripts/chat_api.py",
+    "sha256": "0598c6882ac96471b5561c611fd460e6b42ee8a7be42e1ac177e10884d323d81",
+    "bytes": 1685,
+    "classification": "unchanged upstream"
+  },
+  {
+    "path": "scripts/convert_model.py",
+    "sha256": "118df87620719bee7b22b1500017f668737a3037b0caceeb886575fee25fbc51",
+    "bytes": 8122,
+    "classification": "unchanged upstream"
+  },
+  {
+    "path": "scripts/eval_toolcall.py",
+    "sha256": "e1f5c6432386a8345fc22ef09b94731b9023fc63b1884ff7c3a9dea243947ba0",
+    "bytes": 15204,
+    "classification": "unchanged upstream"
+  },
+  {
+    "path": "scripts/serve_openai_api.py",
+    "sha256": "ce6781fda182cd6d480a196066f8d7e4dedc54f34e10ba982cb50880bbe84fa7",
+    "bytes": 10792,
+    "classification": "unchanged upstream"
+  },
+  {
+    "path": "scripts/web_demo.py",
+    "sha256": "315f1e31b96bbc41a549a4983c55e3ea346211e07c50e2a2b6258c3072a145b4",
+    "bytes": 22256,
+    "classification": "unchanged upstream"
+  },
+  {
+    "path": "trainer/rollout_engine.py",
+    "sha256": "04ccde11243c17e992f1d7b1fc11483e437b20a1404099c3ccd9cff5850a8502",
+    "bytes": 10419,
+    "classification": "unchanged upstream"
+  },
+  {
+    "path": "trainer/train_agent.py",
+    "sha256": "b49dedee6eea12a3f588b71903b9b644504d5c6ec36f5cb7d257a2be707e311b",
+    "bytes": 31981,
+    "classification": "unchanged upstream"
+  },
+  {
+    "path": "trainer/train_distillation.py",
+    "sha256": "3f41c9c5caf90e90e04bc104b196cef5bceda981510e78b1beecc33b216b23a7",
+    "bytes": 13347,
+    "classification": "unchanged upstream"
+  },
+  {
+    "path": "trainer/train_dpo.py",
+    "sha256": "a25c707baf672fff28d8a2776a0c3b621fe4a4bff1ad26eea340f204546d9286",
+    "bytes": 11918,
+    "classification": "unchanged upstream"
+  },
+  {
+    "path": "trainer/train_full_sft.py",
+    "sha256": "e4259c38677ea7b710aab60cd1ef75d3429499414aa76b8188154b8d0404accd",
+    "bytes": 9406,
+    "classification": "unchanged upstream"
+  },
+  {
+    "path": "trainer/train_grpo.py",
+    "sha256": "449d070bc1e1fc43aeb5554fb132bc26a201458e5cbb563c918f85cc74f68406",
+    "bytes": 19394,
+    "classification": "unchanged upstream"
+  },
+  {
+    "path": "trainer/train_lora.py",
+    "sha256": "f5fd1504400f9948fc00ccae58aa4f91b94383877311cbcc34c79b5f56076bec",
+    "bytes": 9926,
+    "classification": "unchanged upstream"
+  },
+  {
+    "path": "trainer/train_ppo.py",
+    "sha256": "813583b7d9cead9b303d467858011a5b4d8e2ef5e4ae141c1268d65cb801e19e",
+    "bytes": 26664,
+    "classification": "unchanged upstream"
+  },
+  {
+    "path": "trainer/train_pretrain.py",
+    "sha256": "103e4fdbe60e2adf6905fab899e8acba35128c0cec2de9f46831ebf98e288a9c",
+    "bytes": 9382,
+    "classification": "unchanged upstream"
+  },
+  {
+    "path": "trainer/train_tokenizer.py",
+    "sha256": "0d6d6dcb21a066b7cc579d2be557fa8f266f3d6e6db0f665e0cc12ce8b6f0068",
+    "bytes": 15200,
+    "classification": "unchanged upstream"
+  },
+  {
+    "path": "trainer/trainer_utils.py",
+    "sha256": "72b4cf848b24b989bed7eb3780b54374790c581f3e5bf5b155909b8b1158a248",
+    "bytes": 9438,
+    "classification": "unchanged upstream"
+  }
+]

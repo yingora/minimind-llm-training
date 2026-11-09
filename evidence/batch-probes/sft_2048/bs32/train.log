@@ -1,0 +1,6 @@
+Model Params: 63.91M
+Trainable Params: 63.912M
+Epoch:[1/1](20/64), loss: 3.1249, logits_loss: 3.1249, aux_loss: 0.0000, lr: 0.00000800, epoch_time: 0.0min
+Epoch:[1/1](40/64), loss: 2.7965, logits_loss: 2.7965, aux_loss: 0.0000, lr: 0.00000378, epoch_time: 0.0min
+Epoch:[1/1](60/64), loss: 2.7530, logits_loss: 2.7530, aux_loss: 0.0000, lr: 0.00000109, epoch_time: 0.0min
+Epoch:[1/1](64/64), loss: 2.7169, logits_loss: 2.7169, aux_loss: 0.0000, lr: 0.00000100, epoch_time: 0.0min

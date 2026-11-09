@@ -1,0 +1,212 @@
+
+===== MODEL: SFT =====
+[SFT] 1/30 already completed
+[SFT] 2/30 already completed
+[SFT] 3/30 already completed
+[SFT] 4/30 already completed
+[SFT] 5/30 already completed
+[SFT] 6/30 already completed
+[SFT] 7/30 already completed
+[SFT] 8/30 already completed
+[SFT] 9/30 already completed
+[SFT] 10/30 already completed
+[SFT] 11/30 already completed
+[SFT] 12/30 already completed
+[SFT] 13/30 already completed
+[SFT] 14/30 already completed
+[SFT] 15/30 already completed
+[SFT] 16/30 already completed
+[SFT] 17/30 already completed
+[SFT] 18/30 already completed
+[SFT] 19/30 already completed
+[SFT] 20/30 already completed
+[SFT] 21/30 already completed
+[SFT] 22/30 already completed
+[SFT] 23/30 already completed
+[SFT] 24/30 already completed
+[SFT] 25/30 already completed
+[SFT] 26/30 already completed
+[SFT] 27/30 already completed
+[SFT] 28/30 already completed
+[SFT] 29/30 already completed
+[SFT] 30/30 already completed
+
+===== MODEL: DPO =====
+
+[DPO] 1/30 | 3.41s
+Q: What is the capital of France?
+A: 'The capital of France is Paris.'
+
+[DPO] 2/30 | 25.79s
+Q: What is the capital of Japan?
+A: 'The capital of Japan is Japan. Japan is the capital of Japan, and it is the capital of Japan. Japan is the capital of Japan, and it is the capital of Japan.'
+
+[DPO] 3/30 | 38.19s
+Q: How many days are in a week?
+A: 'To find out how many days in a week, you can use the formula for the day of day, which is a common day, which is a common day, and is the sum of days. The formula for days is:\n\n\\[ \\text{ days} = \\frac{\\text{ days} + \\'
+
+[DPO] 4/30 | 37.19s
+Q: What planet do humans live on?
+A: 'The planet in humans live on a planet is to be a way to do it. This is because the planet is a way to do it, and it is a way to do it. The planet is a way to do it, and it is a way to do it. This is'
+
+[DPO] 5/30 | 36.41s
+Q: What is the chemical formula for water?
+A: 'The chemical formula for water is:\n\n\\[ \\text{C}_2\\text{O}_2\\text{O}_2\\text{O}_2\\text{O}_2\\text{O}_2\\text{O}_2\\text{'
+
+[DPO] 6/30 | 33.49s
+Q: What is machine learning?
+A: 'The machine learning is a subset of machine learning that uses data to learn from data to learn from data. This includes data from data that can be used to perform tasks like data analysis, data analysis, and data analysis, and then once the data that can be used to perform tasks'
+
+[DPO] 7/30 | 33.11s
+Q: What is artificial intelligence?
+A: 'I am an AI assistant designed to assist with a wide range of tasks, from answering questions and providing information to helping with creative projects and more. My capabilities are being used in various fields, including healthcare, finance, and transportation. I am designed to assist with a wide range of'
+
+[DPO] 8/30 | 34.2s
+Q: What is overfitting?
+A: 'In the context of the context of the context of the context of the context of the context of the context of the context of the context of the context of the context of the context of the context of the context of the context of the context of the context of the context of the context of the context of the context of'
+
+[DPO] 9/30 | 35.71s
+Q: What is supervised learning?
+A: '"Advised learning" is a Chinese character in the context of learning, often used in various fields such as science, science, and physics. It is often used in various fields such as science, science, and physics, and is often used in various fields such as science,'
+
+[DPO] 10/30 | 33.6s
+Q: What is a neural network?
+A: 'A neural network is a network that allows for accessing a network of a network, which is a type of network that can be used to perform a specific task or task. This network is designed to be used to perform a specific task or task, such as searching for a network, searching for a network'
+
+[DPO] 11/30 | 32.78s
+Q: What is Python?
+A: 'Yes, Python is a popular programming language that is widely used in various fields such as Python, Java, and C++. It is a popular programming language that is widely used in various fields such as Python, Java, and C++.\n\nHere are some common languages that are commonly used in Python'
+
+[DPO] 12/30 | 34.31s
+Q: What is a Python list?
+A: 'Yes, a Python list is a list that contains a list that contains a list that contains a list that contains a list that contains a list that contains a list that contains a list that contains a list that contains a list that contains a list that contains a list that contains a list that contains a list that contains a list'
+
+[DPO] 13/30 | 34.08s
+Q: What is a Python dictionary?
+A: "A Python dictionary is a list of integers that are greater than or equal to zero. It is a list of integers that can be used to perform various operations, such as sorting, repeating, or sorting.\n\nHere's a simple example of how you can use the `dict.get"
+
+[DPO] 14/30 | 34.4s
+Q: What does len() do in Python?
+A: "Yes, you can use the `len()` function in Python. This function is used to iterate over the list of numbers from the list and then convert it to a list. This function is used to iterate over the list and then convert it to a list.\n\nHere's a simple example of how"
+
+[DPO] 15/30 | 36.01s
+Q: What is the difference between a list and a tuple?
+A: 'The difference between a list and a tuple is calculated as follows:\n\n1. **A list**: A list of numbers in the list.\n2. **Tuple**: A tuple of numbers in the list.\n3. **A tuple**: A tuple of'
+
+[DPO] 16/30 | 36.99s
+Q: What is 12 times 8? Answer with only the number.
+A: 'The number is given as 12 times 8. This is because 12 times 8 is a multiple of 12 and the number is a multiple of 12.\n\nTo find the number, we need to find the number that is.\n\nFirst, we need to find the number of times 8. This is because 12 times'
+
+[DPO] 17/30 | 37.5s
+Q: What is 15 plus 27? Answer with only the number.
+A: "To find the number 15 plus 27, we can use the formula for combining numbers. Here's an example of how you can do it:\n\n```\n15 + 27 = 37\n```\n\nThis formula works by adding the numbers 27, which is 15. Then"
+
+[DPO] 18/30 | 38.12s
+Q: What is 100 divided by 4? Answer with only the number.
+A: 'To find 100 divided by 4, you can follow these steps:\n\n1. **Calculate 100 divided by 4**:\n   $ 100 \\times 4 = 10000 $\n\n2. **Calculate 100 divided by 4**:\n   $ 100 \\times 4 = 10000 $\n\n3.'
+
+[DPO] 19/30 | 37.3s
+Q: What is 9 squared? Answer with only the number.
+A: 'To find 9 squared, you can use the formula:\n\n\\[ \\text{squared} = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} \\]\n\nGiven that 9 squared is equal to 9, we can'
+
+[DPO] 20/30 | 36.32s
+Q: What is 7 minus 3? Answer with only the number.
+A: 'To find the number 7 minus 3, we need to find the minus 3.\n\nThe minus 3 is 4, which is the minus 3.\n\nSo, the minus 3 is 4.\n\nThe minus 3 is 4.\n\nThe minus 3 is 4, which'
+
+[DPO] 21/30 | 34.29s
+Q: Why do people need sleep?
+A: "Yes, people can do sleep in a way that is a way to do so. Sleep is a type of sleep that is used to describe a person's sleep, which is a type of sleep that is used to describe a person's sleep. This is because"
+
+[DPO] 22/30 | 35.9s
+Q: Why is drinking water important?
+A: 'During drinking water, drinking water is typically affected by the body, which is a type of water that can be used to produce water. This is because the body is a type of water that can be used to produce water, which is a type of water that'
+
+[DPO] 23/30 | 35.2s
+Q: What is a healthy breakfast?
+A: 'A healthy breakfast is a well-known medical breakfast that involves a healthy medical breakfast. It involves a medical breakfast, which is a type of medical breakfast, typically involves a medical breakfast, which is a type'
+
+[DPO] 24/30 | 34.99s
+Q: How can I learn English?
+A: 'I can learn English as follows:\n\n1. **语法结构**：\n   - **主语**：I（主语）\n   - **谓语**：is（谓语）\n   - **宾语**：is（宾语）\n   - **宾语**：is（宾语'
+
+[DPO] 25/30 | 35.5s
+Q: Why do plants need sunlight?
+A: 'The plants need sunlight to be able to be able to be able to be able to be able to be able to be able to be able to be able to be able to be able to be able to be able to be able to be'
+
+[DPO] 26/30 | 5.41s
+Q: Answer with one word: What color is the sky on a clear day?
+A: 'The sky on a clear day is the blue sky.'
+
+[DPO] 27/30 | 37.5s
+Q: Answer with one word: What animal says meow?
+A: 'Answer with one word: "Small"\n\nSmall is a type of fish that is a type of fish that is a type of fish that is a type of fish that is a type of fish that is a type of fish that is a type of f'
+
+[DPO] 28/30 | 34.42s
+Q: Write exactly the word hello.
+A: 'The word "hello" is a common phrase used in the context of the context of the context of the context of the context of the context of the context of the context of the context of the context of the context of the context of the context of the context of the context of the context of the context of'
+
+[DPO] 29/30 | 38.9s
+Q: Answer with only the number: How many legs does a spider have?
+A: "To find the number of legs a spider has, you can use the formula for spider's number. The formula for spider's number is:\n\n\\[ \\text{Spider's number} = \\frac{\\text{Spider's number}}{\\text{Spider's number}} \\]\n"
+
+[DPO] 30/30 | 37.29s
+Q: Answer yes or no: Is Paris in France?
+A: 'Yes, Paris is in France. It is a well-known French festival in France, and it is a well-known French festival in France. It is a well-known French festival in France, and it is a well-known French festival in'
+
+===== MODEL: GRPO =====
+[GRPO] 1/30 already completed
+[GRPO] 2/30 already completed
+[GRPO] 3/30 already completed
+[GRPO] 4/30 already completed
+[GRPO] 5/30 already completed
+[GRPO] 6/30 already completed
+[GRPO] 7/30 already completed
+[GRPO] 8/30 already completed
+[GRPO] 9/30 already completed
+[GRPO] 10/30 already completed
+[GRPO] 11/30 already completed
+[GRPO] 12/30 already completed
+[GRPO] 13/30 already completed
+[GRPO] 14/30 already completed
+[GRPO] 15/30 already completed
+[GRPO] 16/30 already completed
+[GRPO] 17/30 already completed
+[GRPO] 18/30 already completed
+[GRPO] 19/30 already completed
+[GRPO] 20/30 already completed
+[GRPO] 21/30 already completed
+[GRPO] 22/30 already completed
+[GRPO] 23/30 already completed
+[GRPO] 24/30 already completed
+[GRPO] 25/30 already completed
+[GRPO] 26/30 already completed
+[GRPO] 27/30 already completed
+[GRPO] 28/30 already completed
+[GRPO] 29/30 already completed
+[GRPO] 30/30 already completed
+
+===== BENCHMARK SUMMARY =====
+{
+  "SFT": {
+    "completed": 30,
+    "strict_exact_matches": 0,
+    "strict_exact_match_total": 15,
+    "possible_refusals": 0,
+    "possible_repetitions": 15
+  },
+  "DPO": {
+    "completed": 30,
+    "strict_exact_matches": 0,
+    "strict_exact_match_total": 15,
+    "possible_refusals": 0,
+    "possible_repetitions": 15
+  },
+  "GRPO": {
+    "completed": 30,
+    "strict_exact_matches": 0,
+    "strict_exact_match_total": 15,
+    "possible_refusals": 3,
+    "possible_repetitions": 7
+  }
+}
+Saved: experiments/results/benchmark_sft_grpo.jsonl

@@ -1,0 +1,18 @@
+Model Params: 63.91M
+Trainable Params: 63.912M
+
+Generating train split: 0 examples [00:00, ? examples/s]
+Generating train split: 2048 examples [00:00, 58809.79 examples/s]
+Epoch:[1/1](20/256), loss: 3.1514, logits_loss: 3.1514, aux_loss: 0.0000, lr: 0.00000987, epoch_time: 0.0min
+Epoch:[1/1](40/256), loss: 3.0740, logits_loss: 3.0740, aux_loss: 0.0000, lr: 0.00000947, epoch_time: 0.0min
+Epoch:[1/1](60/256), loss: 2.8164, logits_loss: 2.8164, aux_loss: 0.0000, lr: 0.00000883, epoch_time: 0.0min
+Epoch:[1/1](80/256), loss: 2.8552, logits_loss: 2.8552, aux_loss: 0.0000, lr: 0.00000800, epoch_time: 0.0min
+Epoch:[1/1](100/256), loss: 2.6878, logits_loss: 2.6878, aux_loss: 0.0000, lr: 0.00000702, epoch_time: 0.0min
+Epoch:[1/1](120/256), loss: 2.6511, logits_loss: 2.6511, aux_loss: 0.0000, lr: 0.00000594, epoch_time: 0.0min
+Epoch:[1/1](140/256), loss: 2.4314, logits_loss: 2.4314, aux_loss: 0.0000, lr: 0.00000484, epoch_time: 0.0min
+Epoch:[1/1](160/256), loss: 2.5092, logits_loss: 2.5092, aux_loss: 0.0000, lr: 0.00000378, epoch_time: 0.0min
+Epoch:[1/1](180/256), loss: 2.5577, logits_loss: 2.5577, aux_loss: 0.0000, lr: 0.00000282, epoch_time: 0.0min
+Epoch:[1/1](200/256), loss: 2.4350, logits_loss: 2.4350, aux_loss: 0.0000, lr: 0.00000202, epoch_time: 0.0min
+Epoch:[1/1](220/256), loss: 2.5360, logits_loss: 2.5360, aux_loss: 0.0000, lr: 0.00000143, epoch_time: 0.0min
+Epoch:[1/1](240/256), loss: 2.4673, logits_loss: 2.4673, aux_loss: 0.0000, lr: 0.00000109, epoch_time: 0.0min
+Epoch:[1/1](256/256), loss: 2.4572, logits_loss: 2.4572, aux_loss: 0.0000, lr: 0.00000100, epoch_time: 0.0min
